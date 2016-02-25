@@ -2,7 +2,7 @@ full_rebuild: true
 name: Gridster
 description: the material experience for jekyll
 destination: jekyllbuild
-url:"http://indianpanther.com" #place url
+url:"http://indianpanther.com/" #place url
 baseurl: "/explore/"#place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
